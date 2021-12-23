@@ -1,0 +1,14 @@
+        @import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,300&display=swap');
+        @tailwind base;
+        @tailwind components;
+        @tailwind utilities;
+        @font-face {
+            font-family: 'gotFont';
+            src: url(fonts/GotFont.ttf);
+        }
+        
+        body {
+            --tw-bg-opacity: 1;
+            background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+        }
