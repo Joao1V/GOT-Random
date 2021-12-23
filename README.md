@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# GOT - Random Quotes
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Primeiro projeto consumindo uma API, como sou fã de Game of Thrones, utilizei uma API que gera frases aleatórias dos personagens.
 
-## Recommended IDE Setup
+## Tecnologia
+* Vue.JS
+* Vite
+* Tailwindcss
+* Axios
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+  ## Authors
+
+  * **João Victor Ferreira Magalhães** 
+
+  Obrigado por me visitar!
